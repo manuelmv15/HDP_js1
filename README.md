@@ -14,7 +14,7 @@
 
 
 ## ejercicio 2 
-## ejercicio de FizzBuzz
+### ejercicio de FizzBuzz
 - imprimir en consola los números de 1 a 100 bajo las
 siguientes consideraciones:
 
