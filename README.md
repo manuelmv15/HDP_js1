@@ -1,8 +1,7 @@
 # Practica 1 de JavaScript 
 ## ejercicio 1 
 - triangulo de 7 niveles
-- tirangulos con el numero de que de el usuario 
-- 
+- tirangulos con el numero de que de el usuario  
 ```markdown
       *
      *** 
